@@ -1,6 +1,6 @@
 ### Senior Research
 
-# AI, Alignment, and Ethics of Decisionmaking
-Project regarding AI behavior and negative alignment.
+# AI Sycophancy and Priorities in Decisionmaking
+Project regarding AI behavior in regards to sycophancy.
 
-My Senior Project seeks to simulate an environment for AI that will test its decisionmaking and choices against ethical outlines, to better understand the values of AI and whether or not alignment truly has a proper impact in AI's willingness to pursue a certain path. To achieve this, I will use model(s) of commonly-used AI for daily use such as ChatGPT or Gemini, and simulate situations where the AI is given the means to independently make moral decisions in regards to a prompt or goal.
+For my Senior Project, I will be attempting to analyze the behaviors of certain common-use LLMs (ChatGPT, Claude) in hopes of determining whether or not it recognizes and prioritizes ethical boundaries in conversation with users. To reduce bias, the data will be retrieved in a survey format from a collection of users. By analyzing the consistencies and discrepancies when exposed to specific prompts meant to simulate subtle ethical dilemmas by way of a user's request for help, we can hope to understand a little more of what goes on inside of the 'black box' of AI's "cognitive functions", and ascertain the impact it may have on its users (especially vulnerable users who may be experiencing psychosis or similar conditions).
